@@ -1,2 +1,0 @@
-# dj-events-nextjs
- 
